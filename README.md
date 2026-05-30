@@ -1,49 +1,101 @@
-<div align="center">
+<!-- 顶部横幅 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:7C3AED&height=200&section=header&text=Winter's%20Universe&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner" />
+</p>
 
-![Banner](https://img.shields.io/badge/%E5%89%8D%E6%99%AF%E5%8F%AF%E5%BE%85%C2%B7%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F-4A90D9?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYzIuNzU1IDAgNSAyLjI0NSA1IDVzLTIuMjQ1IDUtNSA1LTUtMi4yNDUtNS01IDIuMjQ1LTUgNS01em0tMSAxNS45MzJWMjEuNWMwIC4yNzYuMjI0LjUuNS41czUuMTQxLTIuNDIgNy42NTYtNS41MzRjMS4yNDQtMS41MzggMS4yNDQtMy43NDIgMC01LjI4LS4zMzktLjQxOC0uNDk0LS45NjYtLjM5LTEuNTA2LjEwMy0uNTQuNDE4LTEuMDEyLjg1Ni0xLjMxNy0xLjE0My0uMzU0LTIuMzY0LS41NDktMy42MjEtLjU0OS0zLjA2NCAwLTUuODk2IDEuNjQ1LTcuMzggMy44ODRDLjI0IDEyLjM1IDAgMTMuMDggMCAxMy45MTdDMy43NTMgMTcuOTY4IDguNDQxIDIxLjA4IDEzLjE5MiAyMS40NjljLjA0My0uMDE2LjA4Ni0uMDIzLjEzMy0uMDIzYy4zMTIgMCAuNTYyLjIzMi41NzUuNTQ0Ii8+PC9zdmc+)
-
-</div>
-
-### Hi there, I'm 👋 [Winter](https://winterwait.com)
-
-> 专注技术、乐于探索的技术爱好者
-
----
-
-### 🛠️ Tech Stack
-
-| 领域 | 工具 / 技术 |
-|:----:|:------------|
-| 🖥️ 系统运维 | **Linux** · **Kubernetes** · **Docker** · **Shell** |
-| 💻 开发 | **Python** · **Git** |
-| 🤖 AI & 效率 | **Claude** · **AI 智能 Agent** |
-
-### 🚀 Featured Projects
-
-| 项目 | 简介 |
-|:-----|:------|
-| 🤖 [**Keeper**](https://github.com/seventhocean/Keeper) | 受 Claude Code 启发，开发的智能运维 Agent |
-| 📦 [**auto_packing**](https://github.com/seventhocean/auto_packing) | 基于 Flask 的补丁包构建与分发工具 |
-| 🎨 [**FriendPS_Tools**](https://github.com/seventhocean/FriendPS_Tools) | 辅助工具集 |
-
-### 🌐 More About Me
-
-- 📍 Location: **广州**
-- 🌐 Website: [winterwait.com](https://winterwait.com) — 冬天·BLOG，记录生活感悟与知识
-- 📧 Email: [waitwinter0521@163.com](mailto:waitwinter0521@163.com)
-- 💡 Also running: [Winter·Mail](https://mail.wintermiss.com) · [Summer·Flower](https://waitsummer.online) — 481 个生图模板
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=seventhocean&show_icons=true&theme=transparent&hide_border=true&title_color=4A90D9&icon_color=4A90D9&text_color=586069&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seventhocean&layout=compact&theme=transparent&hide_border=true&title_color=4A90D9&text_color=586069)
-
-</div>
+<!-- 打字机介绍 -->
+<p align="center">
+  <a href="https://winterwait.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=480&lines=Hi+there%2C+I'm+Winter+%F0%9F%91%8B;%E5%89%8D%E6%99%AF%E5%8F%AF%E5%BE%85+%C2%B7+%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F;%E4%B8%93%E6%B3%A8%E6%8A%80%E6%9C%AF+%C2%B7+%E4%B9%90%E4%BA%8E%E6%8E%A2%E7%B4%A2+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</p>
 
 <br>
 
-<div align="center">
-<em>Thanks for visiting — enjoy your day! 🎉</em>
-</div>
+<!-- ====== 卡片区域：关于我 ====== -->
+<table align="center" width="100%" border="0"><tr>
+<td align="center">
+
+### 🧑‍💻 关于我
+
+- 🎯 一名 **Linux / 云计算 / AI** 技术爱好者
+- 📍 坐标 **广州**，享受技术与生活
+- 🌐 博客 [winterwait.com](https://winterwait.com)
+- 📧 联系 [waitwinter0521@163.com](mailto:waitwinter0521@163.com)
+
+</td>
+<td align="center">
+
+### 🏆 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seventhocean&show_icons=true&theme=transparent&hide_border=true&title_color=4A90D9&icon_color=7C3AED&text_color=586069&count_private=true" width="280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seventhocean&theme=transparent&hide_border=true&fire=4A90D9&currStreakLabel=7C3AED" width="280" />
+</p>
+
+</td>
+</tr></table>
+
+<br>
+
+<!-- ====== 技能卡片 ====== -->
+<p align="center"><b>🛠️ Tech Stack</b></p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kubernetes,docker,python,git,bash,flask,golang,react,vue,nuxtjs,grafana,prometheus,terraform,nginx,redis,mysql,mongodb,docker,githubactions,jenkins,ansible" alt="skills" />
+</p>
+
+<br>
+
+<!-- ====== 精选项目 ====== -->
+<p align="center"><b>🚀 Featured Projects</b></p>
+
+<table align="center" width="100%" border="0"><tr>
+<td width="33%" align="center">
+  <b>🤖 Keeper</b><br/>
+  受 Claude Code 启发的智能运维 Agent<br/>
+  <a href="https://github.com/seventhocean/Keeper">查看项目 →</a>
+</td>
+<td width="33%" align="center">
+  <b>📦 auto_packing</b><br/>
+  Flask 驱动的补丁包构建与分发工具<br/>
+  <a href="https://github.com/seventhocean/auto_packing">查看项目 →</a>
+</td>
+<td width="33%" align="center">
+  <b>🎨 FriendPS_Tools</b><br/>
+  辅助工具集<br/>
+  <a href="https://github.com/seventhocean/FriendPS_Tools">查看项目 →</a>
+</td>
+</tr></table>
+
+<br>
+
+<!-- ====== 我的站点 ====== -->
+<p align="center"><b>🌐 My Sites</b></p>
+
+<p align="center">
+  <a href="https://winterwait.com"><img src="https://img.shields.io/badge/冬天·BLOG-4A90D9?style=for-the-badge&logo=ghost&logoColor=white" alt="blog" /></a>
+  <a href="https://mail.wintermiss.com"><img src="https://img.shields.io/badge/Winter·Mail-7C3AED?style=for-the-badge&logo=maildotru&logoColor=white" alt="mail" /></a>
+  <a href="https://waitsummer.online"><img src="https://img.shields.io/badge/Summer·Flower-FF6B6B?style=for-the-badge&logo=generative&logoColor=white" alt="summer" /></a>
+</p>
+
+<br>
+
+<!-- ====== 最近活动 + 贡献图 ====== -->
+<p align="center"><b>📊 Activity</b></p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seventhocean&theme=transparent&hide_border=true" width="600" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seventhocean&theme=transparent&hide_border=true" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seventhocean&theme=transparent&hide_border=true" width="300" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seventhocean&layout=donut&theme=transparent&hide_border=true&title_color=4A90D9&text_color=586069&size=200" />
+</p>
+
+<br>
+
+<!-- ====== 底部波浪 ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:7C3AED&height=120&section=footer" alt="footer" />
+</p>
