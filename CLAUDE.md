@@ -17,7 +17,36 @@ The only meaningful file is `README.md`. It uses embedded HTML, shields.io badge
 
 ## User Context
 
-- Name: Winter
+- Name: Winter (冬天)
 - Location: Guangzhou, China
-- Interests: Linux, cloud computing, AI
-- Blog: winterwait.com
+- Positioning: AI 订阅服务与效率工具分享 · 自媒体创作者 · 记录 AI 实践、技术与生活
+- Tagline: “一个喜欢把复杂的东西讲清楚的人。” / AI 订阅 · 工作流 · 实战教程
+- Personal homepage: https://waitwinter.homes
+- Blog: https://winterwait.com (API: https://api.winterwait.com/api/v1/articles)
+- AI shop: https://winterai.cc
+- Email: waitwinter0521@163.com
+- Zhihu: https://www.zhihu.com/people/an-he-32-97
+- Xiaohongshu: https://www.xiaohongshu.com/user/profile/630ca5050000000012003523
+- Interests: AI 应用、提示词工程、AI 工作流、Linux、云计算
+- Tech: Python, TypeScript, Go, JavaScript, Shell, Kotlin, Vue, Flask, Docker, Kubernetes, Nginx, Redis, MySQL
+
+### Sites / Products
+
+| Site | URL |
+|------|-----|
+| 冬天 AI 小店 | https://winterai.cc |
+| 冬天 · Blog | https://winterwait.com |
+| Winter · Mail | https://mail.wintermiss.com |
+| Flower 生图模板 | https://waitsummer.online |
+| Winter · VPS | https://winters.eu.cc |
+| Winter · Api | https://waitsummer.eu.cc |
+
+### Featured Projects
+
+- `seventhocean/Keeper` — 类 Claude Code 的对话式运维 Agent (Python)
+- `seventhocean/FriendPS_Tools` — Flower：模板仓库 + AI 生图平台 (TypeScript)
+- `seventhocean/auto_packing` — DeepFlow 补丁包构建与分发工具 (Python)
+
+### Theme
+
+The profile uses a “冬日夜晚，走进那一盏温暖的窗” (winter-night, warm-window) visual concept. Stat cards use the `tokyonight` theme, and the accent color is `#58A6FF`.
