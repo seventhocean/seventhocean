@@ -33,7 +33,7 @@
 > 一个喜欢把复杂的东西讲清楚的人。
 > 帮你把 **AI 真正用起来** —— AI 订阅 · 工作流 · 实战教程。
 
-- 📍 坐标 **广州** &nbsp;·&nbsp; 🌙 设计语言「冬日夜晚，走进那一盏温暖的窗」
+- 📍 坐标 **广州**
 - 🤖 专注 **AI 应用 / 提示词工程 / 自动化工作流**
 - ✍️ 自媒体创作者，在知乎 · 小红书 · 博客记录 AI 实践、技术与生活
 - 🛠️ 写代码，做产品，也乐于分享
@@ -137,8 +137,6 @@
 ---
 
 <div align="center">
-
-*「冬日夜晚，走进那一盏温暖的窗。」*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
