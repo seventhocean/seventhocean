@@ -88,13 +88,13 @@
 
 <p align="center">
   <a href="https://github.com/seventhocean/Keeper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seventhocean&repo=Keeper&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=seventhocean&repo=Keeper&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/seventhocean/FriendPS_Tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seventhocean&repo=FriendPS_Tools&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=seventhocean&repo=FriendPS_Tools&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/seventhocean/auto_packing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seventhocean&repo=auto_packing&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=seventhocean&repo=auto_packing&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -126,12 +126,16 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seventhocean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seventhocean&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-one.vercel.app/api?username=seventhocean&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=seventhocean&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=seventhocean&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/seventhocean" alt="seventhocean 的贡献热力图" />
 </p>
 
 ---
